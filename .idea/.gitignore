@@ -1,4 +1,4 @@
 # Default ignored files
 /workspace.xml
-/build
-/cmake-build-debug
+../build
+../cmake-build-debug
